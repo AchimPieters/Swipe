@@ -12,7 +12,7 @@
 		
 
 		<!-- Get jQuery from CDN -->
-		<script src="scripts/jquery-1.10.1.min.js"></script>
+		<script src="scripts/jquery-3.5.0.min.js"></script>
 		<script src="scripts/jquery-migrate-1.2.1.min.js"></script>
 
 		<!-- Include the slider scripts -->
