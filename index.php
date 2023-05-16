@@ -13,7 +13,7 @@
 
 		<!-- Get jQuery from CDN -->
 		<script src="scripts/jquery-3.5.0.min.js"></script>
-		<script src="scripts/jquery-migrate-1.2.1.min.js"></script>
+		<script src="scripts/jquery-migrate-3.5.0.min.js"></script>
 
 		<!-- Include the slider scripts -->
 		<script type="text/javascript" src="scripts/jquery.slider.js"></script>
